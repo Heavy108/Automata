@@ -1,6 +1,4 @@
-##NAME:- SATYAM SAJAL
-#ROLL NO.: - CSB21073
-#4TH SEMESTER FLA ASSIGNMENT
+
 #Write a program in Python which takes the transition table of a DFA as input and accepts or rejects a given string
 import pandas as pd
 #Program to Check  if the given String Accepted or rejected by the DFA
